@@ -50,5 +50,6 @@
   },
   "jest": {
     "preset": "expo-module-scripts"
-  }
+  },
+  "deprecated": "expo-checkbox is deprecated. Use the `Checkbox` component from `@expo/ui` instead. See https://docs.expo.dev/versions/latest/sdk/ui/universal/checkbox/"
 }
