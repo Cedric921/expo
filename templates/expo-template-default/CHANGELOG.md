@@ -1,5 +1,11 @@
 # expo-template-default
 
+## 58.0.11
+
+### Patch Changes
+
+- Move or delete the demo images in **assets/images** along with the example files when running `reset-project`. ([#43534](https://github.com/expo/expo/pull/43534) by [@WolfieLeader](https://github.com/WolfieLeader))
+
 ## 58.0.10
 
 ### Patch Changes
